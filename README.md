@@ -1,4 +1,4 @@
-# Module 12 Report Template
+# Module 20 Report
 
 ## Overview of the Analysis
 With these machine learning models, we aim to a create a model that can correclty predict which borrowers would be considered high-risk and could therefore be more likely to default on a loan. This information could be highly valuable for a variety of users but especially lenders working to underwrite potential borrowers.
